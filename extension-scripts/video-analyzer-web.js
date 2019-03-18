@@ -141,4 +141,4 @@ $ui.menu({
     var server = options[index].server
     render(server)
   }
-})
+})https://github.com/pholl801/xTeko/tree/master/extension-demos/launcher
